@@ -3,7 +3,25 @@
 
 Building a complete data pipeline for cleaning, transforming, and analyzing Netflix content data using Python and SQL Server.
 
+📌 Table of Contents
 
+- Overview
+
+- Business Problem
+
+- Dataset
+
+- Tools & Technologies
+
+- Project Structure
+
+- Data Cleaning & Preparation
+
+- Exploratory Data Analysis (EDA)
+
+- Research Questions & Key Findings
+
+- Final Recommendations
 
 ## Overview
 
